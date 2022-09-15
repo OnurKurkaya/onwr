@@ -29,13 +29,10 @@ export default function Header() {
                     <Link href="/">
                         <a className="pr-1 text-white font-bold text-4xl">onur</a>
                     </Link>
-                    <a target="_blank" href="https://discord.com/users/774591026940739585" className="flex items-center justify-center cursor-pointer social w-10 h-10 rounded-lg">
+                    <a target="_blank" href="https://discord.com/users/yok" className="flex items-center justify-center cursor-pointer social w-10 h-10 rounded-lg">
                         <i className="fab fa-discord" />
                     </a>
-                    <a target="_blank" href="https://twitter.com/ewingbaba" className="flex items-center justify-center cursor-pointer social w-10 h-10 rounded-lg">
-                        <i className="fab fa-twitter" />
-                    </a>
-                    <a target="_blank" href="https://github.com/ewingdev" className="flex items-center justify-center cursor-pointer social w-10 h-10 rounded-lg">
+                    <a target="_blank" href="https://github.com/onwr" className="flex items-center justify-center cursor-pointer social w-10 h-10 rounded-lg">
                         <i className="fab fa-github" />
                     </a>
                 </div>
