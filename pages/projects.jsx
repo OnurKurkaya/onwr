@@ -6,7 +6,7 @@ export default function Projects() {
     return (
         <>
             <Head>
-                <title>Projects | ewingdev</title>
+                <title>Projects</title>
             </Head>
             <div className="w-full my-5">
                 <Hero />
