@@ -6,7 +6,7 @@ export default function About() {
     return (
         <>
             <Head>
-                <title>About | ewingdev</title>
+                <title>About</title>
             </Head>
             <div className="w-full my-5">
                 <Hero />
