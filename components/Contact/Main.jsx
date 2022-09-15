@@ -3,33 +3,21 @@ import { UilTimes } from '@iconscout/react-unicons';
 export default function Main()  {
     const contacts = [
         {
-            icon: <i className="fab text-3xl fa-twitter" />,
-            title: '@ewingbaba',
-            href: 'https://twitter.com/ewingbaba',
-            desc: 'Twitter'
-        },
-        {
             icon: <i className="fab text-3xl fa-tiktok" />,
-            title: '@ewingbaba',
-            href: 'https://www.tiktok.com/@ewingbaba',
+            title: '@onwrxrd',
+            href: 'https://www.tiktok.com/@onwrxrd',
             desc: 'Tiktok'
         },        
         {
             icon: <i className="fab text-3xl fa-instagram" />,
-            title: '@ewingbaba',
-            href: 'https://instagram.com/ewingbaba',
+            title: '@onwrxrd',
+            href: 'https://www.instagram.com/onwrxrd',
             desc: 'Instagram'
         },
         {
-            icon: <i className="fab text-3xl fa-youtube" />,
-            title: '@ewingbaba',
-            href: 'https://youtube.com/c/ewingbaba',
-            desc: 'YouTube'
-        },
-        {
             icon: <i className="fab text-3xl fa-discord" />,
-            title: 'éwing#3169',
-            href: 'https://discord.com/users/774591026940739585',
+            title: 'onwr#9062',
+            href: 'https://discord.com/users/984127229212635168',
             desc: 'Discord'
         }
     ];
