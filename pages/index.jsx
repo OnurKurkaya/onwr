@@ -8,7 +8,7 @@ export default function Index() {
     return (
         <>
             <Head>
-                <title>Home | ewingdev</title>
+                <title>Home</title>
             </Head>
             <Hero />
             <Activities />
